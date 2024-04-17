@@ -19,9 +19,9 @@
 
 - 🚀  am currently working on : **"SpaceStresser (coming soon)"**
 
-<h3 align="left">Statistics : :</h3>
+<h3 align="left">Statistics :</h3>
                                
-- 🚄 I'm currently learning : **Javascript & CISCO **
+- 🚄 I'm currently learning : **Javascript & CISCO**
 
 - 💻 All my projects are available on GitHub and on my website. (https://github.com/Fl3ixy)
 
