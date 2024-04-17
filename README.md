@@ -1,5 +1,5 @@
-<h1 align="center">Salut, je suis Fl3ixy</h1>
-<h3 align="center">Étudiant en 2ème année en Système Numérique passionné par le développement web</h3>
+<h1 align="center">Hello, I'm Fl3ixy</h1>
+<h3 align="center">2nd year Digital Systems student with a passion for web development</h3>
 <p align="center"> 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG0zNHM2a283NnA3YmljMG8xMHIyc2c3NXlncmMzdzE3NHN4MDFjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Étudiant en développement web" width="300"/> 
 </p>
