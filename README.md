@@ -39,7 +39,6 @@
     <img src="https://cdn.worldvectorlogo.com/logos/cisco-2.svg" alt="Cisco" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/blender-2.svg" alt="Blender" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VsCode" width="40" height="40"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/spotify-2.svg" alt="Spotify" width="40" height="40"/>
 </p>
 
 <h3 align="left">thank🧩</h3>
