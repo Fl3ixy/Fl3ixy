@@ -25,7 +25,7 @@
 
 - 💻 All my projects are available on GitHub and on my website. (https://github.com/Fl3ixy)
 
-- 📞 Contactez-moi sur Discord : **imfl3ixy**
+- 📞 Contactez-moi sur Discord : **_fl3ixy**
 
 <h3 align="left">Languages and tools :</h3>
 
