@@ -17,8 +17,7 @@
 </p>
 <br/>
 
-- 🚀  am currently working on : **"SpaceStresser (coming soon)"**
-- 🍿  And I'm also working on : **"LypsChill (private streaming platform, coming soon)"**
+- 🚀  am currently working on : **"Aetron Studio"**
 
 <h3 align="left">Statistics :</h3>
                                
