@@ -2,7 +2,7 @@
 <h3 align="center">Builder / Analyst on Roblox | Web Developer | Network Technician</h3>
 
 <p align="center">
-  <img src="[https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdkcHVqYWs0NDVrODlwMG1waWVxYjZlZnRobzExcGVvOGs4YmQ3aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif)" width="250" alt="Intro GIF"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem53Y2R4MmN5b3pueXN3dnc0cm1qem56dTkyN3hleDByNmxoamljdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Intro GIF"/>
 </p>
 
 ---
